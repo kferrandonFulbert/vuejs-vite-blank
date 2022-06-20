@@ -5,3 +5,13 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- [ATOM](https://atom.io/)
+- [NBEANS](https://netbeans.apache.org/download/index.html)
+- [WEBSTORM](https://www.jetbrains.com/fr-fr/webstorm/)
+
+## Install and launch
+
+```sh
+npm install
+npm run dev 
+```
